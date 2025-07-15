@@ -1,6 +1,6 @@
 # Interactive-Portfolio
 
-[![GitHub](https://github.com/AsthaPal)
+![GitHub](https://github.com/AsthaPal)
 
 ## A Resposive and attractive portfolio for Developers 🔥
 
