@@ -1,6 +1,6 @@
 # Interactive-Portfolio
 
-[![GitHub](https://img.shields.io/github/license/AjitVerma15/Interactive-Portfolio?color=green)](https://img.shields.io/github/license/AjitVerma15/Interactive-Portfolio)
+[![GitHub](https://github.com/AsthaPal)
 
 ## A Resposive and attractive portfolio for Developers 🔥
 
@@ -40,7 +40,7 @@ If you can help us with these. Please don't hesitate to open a pull request.
 
 - Added Dark Mode
 
-  ![Dark Mode](https://github.com/AjitVerma15/Interactive-Portfolio/blob/master/Image/dark-mode-update.gif) - [PR](https://github.com/AjitVerma15/Interactive-Portfolio/pull/18) 26/08/2024
+  ![Dark Mode](https://github.com/AsthaPal/Interactive-Portfolio/blob/master/Image/dark-mode-update.gif) - [PR](https://github.com/AsthaPal/Interactive-Portfolio/pull/18) 26/06/2025
 
 ## Reference
 
